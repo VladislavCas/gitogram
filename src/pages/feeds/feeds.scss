@@ -1,0 +1,36 @@
+.stories {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 48px 0 48px;
+}
+
+.icon {
+    width: 22px;
+    margin-left: 20px;
+}
+
+.stories-item {
+    display: flex;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 48px 0 48px;
+}
+
+.img__profile {
+    border-radius: 50%;
+    width: 37px;
+    height: 37px;
+    margin-left: 22px;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+}
+
